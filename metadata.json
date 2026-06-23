@@ -1,0 +1,6 @@
+{
+  "name": "Ecosmart Classroom",
+  "description": "Bảng điều khiển IOC theo dõi thiết bị điện IoT qua MQTT, hỗ trợ 7 bậc kịch bản điều khiển, báo cáo thống kê chuyên dụng và phân quyền người dùng 3 cấp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
